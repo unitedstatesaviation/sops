@@ -30,3 +30,4 @@ urllib3==2.5.0
 watchdog==6.0.0
 pillow==11.3.0
 CairoSVG==2.8.2
+mkdocs-awesome-nav==3.2.0
