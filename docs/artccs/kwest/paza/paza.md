@@ -1,6 +1,6 @@
 # Anchorage Enroute
 ## Airports
 Class C:
-PANC/PALD
+PANC/PALH
 ## Center Positions
 ANC_CTR 133.300
