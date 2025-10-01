@@ -1,0 +1,6 @@
+# Anchorage Airport (PANC/ANC)
+ANC_TWR 118.3  
+ANC_GND 121.9  
+ANC_DEL 119.4  
+## Anchorage TRACON (A11)
+A11_APP 118.6
