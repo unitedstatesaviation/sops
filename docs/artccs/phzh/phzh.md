@@ -1,6 +1,5 @@
-# USA West Honolulu Sector
-This is the sector of USA West covering what in real life is the Honolulu ARTCC.
-
+# Honolulu Control Facility
+This is the ZHN ARTCC.
 ## Airports
 Class B:  
 Honolulu (PHNL)  
