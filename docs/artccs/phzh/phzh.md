@@ -1,4 +1,5 @@
 # Honolulu Control Facility
+![ZHN Image](../../../images/ZHNb.png)
 This is the ZHN ARTCC.
 ## Airports
 Class B:  
