@@ -1,3 +1,2 @@
 # Welcome to United States Aviation
-
-This is our new site, this is a work in progress. Squawk STBY.
+This is a student run organzation designed to help us learn more about aviation. Feel free to take a look around or [contact us](mailto:kangs@unitedstatesaviation.us).
