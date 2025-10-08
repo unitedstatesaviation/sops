@@ -1,6 +1,7 @@
 nav:
   - Home: index.md
   - ARTCC SOPs: artccs
+  - Staff: staff.md
   - Home: https://unitedstatesaviation.us
   - Track: https://track.unitedstatesaviation.us
   - Connect: https://connect.unitedstatesaviation.us
