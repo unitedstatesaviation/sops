@@ -13,7 +13,7 @@ Here is the list of current USAA staff positions.
 ## Anchorage (ZAN)
 | Position | Name | CID |
 |---|---|---|
-| Air Traffic Manager | *[Hiring](https://srv1049714.hstgr.cloud/mod/page/view.php?id=50)* | - |
+| Air Traffic Manager | Amalia Kendall | 1101 |
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
