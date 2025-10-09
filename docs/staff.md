@@ -17,6 +17,7 @@ Here is the list of current USAA staff positions.
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
+| Event Coordinator | Vacant | - |  
 
 ## Honolulu (HCF)
 | Position | Name | CID |
@@ -25,6 +26,7 @@ Here is the list of current USAA staff positions.
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
+| Event Coordinator | Vacant | - |  
 
 ## Seattle (ZSE)
 | Position | Name | CID |
@@ -33,3 +35,4 @@ Here is the list of current USAA staff positions.
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
+| Event Coordinator | Vacant | - |  
