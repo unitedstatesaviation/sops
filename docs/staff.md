@@ -15,7 +15,7 @@ Here is the list of current USAA staff positions.
 |---|---|---|
 | Air Traffic Manager | Amalia Kendall | 1101 |
 | Deputy Air Traffic Manager | Vacant | - |
-| Training Administrator | Vacant | - |
+| Training Administrator | Eli Safari | 1402 |
 | Facility Engineer | Vacant | - |  
 | Event Coordinator | Vacant | - |  
 
