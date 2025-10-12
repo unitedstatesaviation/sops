@@ -61,6 +61,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.magiclink
+  - pymdownx.tabbed:
+      alternate_style: true
 
 repo_url: https://github.com/unitedstatesaviation/sops
 repo_name: unitedstatesaviation/sops
