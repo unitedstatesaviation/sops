@@ -7,3 +7,5 @@ HNL_R_USAF_GND 121.7 (Joint Base Pearl Harbor Hickam Ramp)
 HNL_DEL 121.4  
 
 HCF_APP 118.3 (HCF Approach)
+## Ground Diagram
+![Alt text](https://aeronav.faa.gov/d-tpp/2510/00754ad.pdf){ type=application/pdf style="min-height:130vh;width:100%" }

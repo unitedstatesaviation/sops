@@ -12,6 +12,8 @@ theme:
     - search.share
     - content.tooltips
   logo: images/USAAw.png
+  icon:
+    repo: fontawesome/brands/github
   palette: 
 
     # Palette toggle for light mode
@@ -41,6 +43,9 @@ plugins:
         no_matches: warning
   - tags:
       enabled: false
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - mkdocs-pdf
 
 markdown_extensions:
   - attr_list

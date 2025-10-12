@@ -31,3 +31,5 @@ watchdog==6.0.0
 pillow==11.3.0
 CairoSVG==2.8.2
 mkdocs-awesome-nav==3.2.0
+mkdocs-git-revision-date-localized-plugin==1.4.7
+mkdocs-pdf==0.1.2
