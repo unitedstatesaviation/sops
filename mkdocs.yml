@@ -72,8 +72,7 @@ markdown_extensions:
 repo_url: https://github.com/unitedstatesaviation/sops
 repo_name: unitedstatesaviation/sops
 
-copyright: This website should be used for simulation purposes only. United States Aviation is not affiliated with the FAA or any government entity. <br>Copyright © 2025 United States Aviation.
-extra:
+copyright: This website should be used for simulation purposes only. United States Aviation is not affiliated with the FAA or any government entity. <br>United States Aviation Website © 2025 by United States Aviation is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/unitedstatesaviation
