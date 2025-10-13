@@ -1,5 +1,6 @@
 nav:
   - Home: index.md
+  - Announcements: blog
   - ARTCC SOPs: artccs
   - Staff: staff.md
   - Policies: policy

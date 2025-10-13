@@ -50,6 +50,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - mkdocs-pdf
+  - blog
 
 markdown_extensions:
   - attr_list
