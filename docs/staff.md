@@ -24,14 +24,14 @@ Here is the list of current USAA staff positions.
 |---|---|---|
 | Air Traffic Manager | Sebastian Kang | 1201 |
 | Deputy Air Traffic Manager | Vacant | - |
-| Training Administrator |*[Hiring](https://srv1049714.hstgr.cloud/mod/page/view.php?id=69)*| - |
-| Facility Engineer | Vacant | - |  
+| Training Administrator |*[Hiring](https://unitedstatesaviation.us/blog/2025/10/09/position-opening-honolulu-training-administrator/)*| - |
+| Facility Engineer |*[Hiring](https://unitedstatesaviation.us/blog/2025/10/13/position-opening-honolulu-facility-engineer/)*| - |  
 | Event Coordinator | Vacant | - |  
 
 ## Seattle (ZSE)
 | Position | Name | CID |
 |---|---|---|
-| Air Traffic Manager |*[Hiring](https://srv1049714.hstgr.cloud/mod/page/view.php?id=58)*|- |
+| Air Traffic Manager |*[Hiring](https://unitedstatesaviation.us/blog/2025/10/07/position-opening-seattle-air-traffic-manager/)**|- |
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
