@@ -5,7 +5,8 @@ Just select the Mkdocs framework and you are good to go.
 ## Local Dev
 Just run mkdocs serve. Make sure python and pip are installed.
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+## License
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
