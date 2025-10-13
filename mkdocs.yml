@@ -11,9 +11,13 @@ theme:
     - search.highlight
     - search.share
     - content.tooltips
+    - navigation.footer
   logo: images/USAAw.png
   icon:
     repo: fontawesome/brands/github
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/unitedstatesaviation
   palette: 
 
     # Palette toggle for light mode
@@ -66,3 +70,16 @@ markdown_extensions:
 
 repo_url: https://github.com/unitedstatesaviation/sops
 repo_name: unitedstatesaviation/sops
+
+copyright: This website should be used for simulation purposes only. United States Aviation is not affiliated with the FAA or any government entity. <br>Copyright © 2025 United States Aviation.
+extra:
+  social:
+      - icon: fontawesome/brands/github
+        link: https://github.com/unitedstatesaviation
+        name: GitHub
+      - icon: material/email
+        link: mailto:info@unitedstatesaviation.us
+        name: Email
+      - icon: simple/moodle
+        link: https://srv1049714.hstgr.cloud/login/index.php
+        name: Moodle
