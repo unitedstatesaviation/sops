@@ -13,6 +13,7 @@ theme:
     - content.tooltips
     - navigation.footer
   logo: images/USAAw.png
+  favicon: images/USAAs.png
   icon:
     repo: fontawesome/brands/github
   social:

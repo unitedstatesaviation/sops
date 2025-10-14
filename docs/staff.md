@@ -31,7 +31,7 @@ Here is the list of current USAA staff positions.
 ## Seattle (ZSE)
 | Position | Name | CID |
 |---|---|---|
-| Air Traffic Manager |*[Hiring](https://unitedstatesaviation.us/blog/2025/10/07/position-opening-seattle-air-traffic-manager/)**|- |
+| Air Traffic Manager |*[Hiring](https://unitedstatesaviation.us/blog/2025/10/07/position-opening-seattle-air-traffic-manager/)*|- |
 | Deputy Air Traffic Manager | Vacant | - |
 | Training Administrator | Vacant | - |
 | Facility Engineer | Vacant | - |  
